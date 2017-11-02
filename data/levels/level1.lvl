@@ -1,0 +1,10 @@
+spike:10
+bomb:20
+electricbarrier:30
+lava:40
+platform:50
+springboard:60
+powerup:70|3
+teleporter:80|1
+rock:90
+flag:100
